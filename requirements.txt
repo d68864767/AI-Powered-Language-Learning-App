@@ -1,0 +1,17 @@
+# Backend
+python==3.8.5
+Flask==1.1.2
+
+# AI Libraries
+tensorflow==2.4.1
+numpy==1.19.5
+scikit-learn==0.24.1
+
+# Speech Recognition
+SpeechRecognition==3.8.1
+
+# Frontend
+Jinja2==2.11.3
+
+# Testing
+pytest==6.2.2
